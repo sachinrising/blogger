@@ -1,0 +1,9 @@
+C:/Ruby22/bin/ruby.exe -r ./siteconf20160210-1828-1empb42.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+make "DESTDIR=" install
